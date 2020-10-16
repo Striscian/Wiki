@@ -1,11 +1,13 @@
-An Advanced Output Node is a component of a [cargo network](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Management) which can receive items sent by [input nodes](https://github.com/Slimefun/Slimefun4/wiki/Input-Node).<br>
+An Advanced Output Node is a component of a [cargo network](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Management) which can receive items sent by [Input nodes](https://github.com/Slimefun/Slimefun4/wiki/Input-Node).<br>
 It is a more complex type of [output node](https://github.com/Slimefun/Slimefun4/wiki/Output-Node), with additional settings to filter items.
 
 ## Obtaining
-Advanced output nodes can be crafted in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
+![Advanced Output Node Recipe as seen in the Guide.]((https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/ACO Recipe.png)
+
+Advanced output nodes can be crafted in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table). They can be made with 2 [Cobalt ingots](https://github.com/Slimefun/Slimefun4/wiki/Cobalt-Ingot), 2 [Cargo Motors](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Motor), and a single [Output Node](https://github.com/Slimefun/Slimefun4/wiki/Output-Node).
 
 ## Usage
-Advanced output nodes move the items in the network matching their settings into the container on which they are placed.
+Advanced output nodes move the items in the network matching their settings into the container on which they are placed. They are superior to regular output nodes in that they have the whitelist/blacklist feature similar to input nodes.
 
 ### Placement
 An advanced output node must be placed (shift-right click) onto a container or [machine](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines), and aligned within 6 blocks of a [cargo manager](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Manager) or a [connector](https://github.com/Slimefun/Slimefun4/wiki/Connector-Node) in range of one (no diagonals).
