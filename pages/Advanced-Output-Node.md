@@ -10,7 +10,7 @@ Advanced output nodes can be crafted in an [Enhanced Crafting Table](https://git
 Advanced output nodes move the items in the network matching their settings into the container on which they are placed. They are superior to regular output nodes in that they have the whitelist/blacklist feature similar to input nodes.
 
 ### Placement
-An advanced output node must be placed (shift-right click) onto a container or [machine](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines), and aligned within 6 blocks of a [cargo manager](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Manager) or a [connector](https://github.com/Slimefun/Slimefun4/wiki/Connector-Node) in range of one (no diagonals).
+An advanced output node must be placed (shift-right click) onto a container or [machine](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines), and aligned within 6 blocks of a [cargo manager](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Manager) or a [connector](https://github.com/Slimefun/Slimefun4/wiki/Connector-Node) in range of one (diagonals do not work).
 
 ### Configuration
 Right-clicking an advanced output node displays an interface to configure the following settings, from left to right:
