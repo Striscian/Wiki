@@ -18,4 +18,4 @@ Right-clicking an advanced output node displays an interface to configure the fo
 * **Type: Whitelist/Blacklist** - Controls whether the items in the grid are whitelisted (included) or blacklisted (excluded).
 * **Include Sub-IDs/Durability** - If enabled, only the items with the same durability as the ones in the grid will be whitelisted/blacklisted.
 * **Include Lore** - If enabled, only the items with the same lore as the ones in the grid will be whitelisted/blacklisted.
-* **Channel** - The channel from which items are taken.
+* **Channel** - The channel that the node will take items from.
